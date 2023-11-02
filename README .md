@@ -31,5 +31,5 @@ The **size of the maze, size of the squares** and **sleep time** can be changed 
 type
 ```bash
 gcc -o main main.c functions.c graphics.c && ./main |java -jar drawapp-2.0.jar
-in the terminal while in the directory that stores all files including graphics and drawapp.
 ```
+in the terminal while in the directory that stores all files including graphics and drawapp.
